@@ -1,4 +1,4 @@
-# 2048-game
+# 2048-Game
 
 An Oject oriented Algorithms Implementation and Analysis course project - 2048 game.
 
