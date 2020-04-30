@@ -6,4 +6,3 @@ An Oject oriented Algorithms Implementation and Analysis course project - 2048 g
 
 It requires Qt libraries in order to run the qmake command It runs in both windows and linux but Qt should be installed in it. 
 
-Steps to Setup:-
