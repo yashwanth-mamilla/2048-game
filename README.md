@@ -1,6 +1,6 @@
 # 2048-Game
 
-An Oject oriented Algorithms Implementation and Analysis course project - 2048 game.
+An Object oriented Algorithms Implementation and Analysis course project - 2048 game.
 
 2048 Game is a 2D sliding blocks game where blocks with numbers are combined to add their values.
 
